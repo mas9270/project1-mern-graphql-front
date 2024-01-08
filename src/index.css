@@ -1,0 +1,7 @@
+@import url("./assets/fonts/IranSansX/Webfonts/style.css"); 
+
+.formik-errors{
+    color: red;
+    margin-top: 10px;
+    font-size: 0.8rem;
+}
